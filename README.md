@@ -1,4 +1,4 @@
-# projekt_sachy spracovánoo v pythonu pomocí pygame
+# projekt_sachy spracováno v pythonu pomocí pygame
 
 návod na instalaci pygame : 
 
